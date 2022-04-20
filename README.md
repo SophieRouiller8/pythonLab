@@ -1,5 +1,7 @@
 # pythonLab
+
 ##Create a library
+
 **Reusable functions
 *Count words
 *Index items
